@@ -1,4 +1,4 @@
-# telegram-bot:backend
+# telegram-bot
 
 Spring Boot Telegram
 
